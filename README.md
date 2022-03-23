@@ -1,9 +1,9 @@
 <p align="center"><a href="https://github.com/subrotokumar/pong"><img src="meta/img/icon.png" width="100"></a></p>
 <h2 align="center"><b>PONG GAME</b></h2>
-<h4 align="center">Pong game made with Python</h4>
-<p align="center"><a href="https://github.com/subrotokumar/pong/releases"><img src="/meta/android/download.png"></a></p> 
+<h4 align="center">Pong Game using Python</h4>
+<p align="center"><a href="https://github.com/subrotokumar/pong/releases"> <img src="meta/img/download.png"> </a></p> 
 <p align="center">
-<a href="https://github.com/subrotokumar/pong" alt="GitHub release"><img src="https://img.shields.io/badge/version-0.1.0-blue.svg" ></a>
+<a href="https://github.com/subrotokumar/pong" alt="GitHub release"> <img src="https://img.shields.io/badge/version-0.1.0-blue.svg"> </a>
 <hr>
 
 <h3 align="center"><strong>Star :star:  this repo to show your support and it really does matter!</strong> :clap:</h4>
